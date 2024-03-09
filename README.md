@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <a href="https://github.com/kadekaryasatya">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kadekaryasatya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kadekaryasatya&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dyudhani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dyudhani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
