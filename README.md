@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @dyudhani
-- 👀 I’m interested in Full-Stack Developer
-- 🌱 I’m currently learning Website Development
+## Hi👋, I’m @dyudhani
+<br/>
+
+I enjoy learning new things about web development, particularly backend, frontend, and devops.
+
+- 👀 I’m focusing on **Backend Development**
+- 🌱 I’m currently learning about **DevOps**
+- 🤗 How to reach me: ddickyumardhani@gmail.com
 
 <!---
 dyudhani/dyudhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
