@@ -18,3 +18,9 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dyudhani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/cakra-darma-34b468214/](https://www.linkedin.com/in/dicky-umardhani"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ddickyumardhani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ddickyumardhani@gmail.com-blue?style=flat-square&logo=gmail"></a>
