@@ -1,4 +1,4 @@
-## Hi👋, I’m @dyudhani
+## Hi👋, I’m Dicky Umardhani
 <br/>
 
 I enjoy learning new things about web development, particularly backend, frontend, and devops.
@@ -7,10 +7,7 @@ I enjoy learning new things about web development, particularly backend, fronten
 - 🌱 I’m currently learning about **DevOps**
 - 🤗 How to reach me: ddickyumardhani@gmail.com
 
-<!---
-dyudhani/dyudhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Github Stats
 
 <p align="left">
 <a href="https://github.com/dyudhani">
