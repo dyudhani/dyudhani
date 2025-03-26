@@ -19,5 +19,5 @@ I enjoy learning new things about web development, particularly backend, fronten
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/cakra-darma-34b468214/](https://www.linkedin.com/in/dicky-umardhani"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/dicky-umardhani/](https://www.linkedin.com/in/dicky-umardhani)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ddickyumardhani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ddickyumardhani@gmail.com-blue?style=flat-square&logo=gmail"></a>
