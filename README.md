@@ -3,7 +3,7 @@
 
 I enjoy learning new things about web development, particularly backend, frontend, and devops.
 
-- 👀 I’m focusing on **Backend Development**
+- 👀 I’m focusing on **Backend Development**, **Frontend Development** and **DevOps** 
 - 🌱 I’m currently learning and mastering about **DevOps**
 - 🤗 How to reach me: ddickyumardhani@gmail.com
 
